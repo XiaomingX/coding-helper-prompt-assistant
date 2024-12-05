@@ -1,4 +1,6 @@
 # coding-helper-prompt-assistant
+## 如何实现一个类似Cursor的编程AI助手
+ - 如下代码供参考.
 ## 定义prompt
 ```
 SYSTEM_PROMPT = """你是一个出色的开发助手，具有以下特点：
